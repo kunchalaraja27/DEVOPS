@@ -1,0 +1,35 @@
+what is devops  
+     devops is methodolagy which we help us to easily lifecycle with easily release applications and new features.
+	 
+whats is waterfall model
+     In waterfall model programmer accepts the client requirement and anylasy it ,then plan comeup with a project plan and design arechture
+	 programmer code the applications as per project
+	 testing ensure the applications is error free and meets the reqirements
+	 after the applicationsis deliverd the opertions team will maintance the applications
+	 
+Diadvantages of waterfall model 
+    if client is unhappy with product their entire project cycle is restarted
+	 project will take long time to start
+	 client requirement cannot  be understand at once
+     its very expence to make changes during the end of the project
+   NO communication between client and devlopment team.
+   
+what is agile model
+    following agile model programmer prototype to understand client reqirements
+	client recive the prototype for review
+	client provide the feedback list of the changesto be made.
+	 
+Workflow of agile model 
+
+   the entire process of building a software is brokendown into small actionable blocks called sprint
+    
+	   productbacklog ----sprintplanning-----sprintbacklog----sprint---delvirableproduct---product review
+	   
+Advantages of agile model 
+     client reqirements better to understand because of the constant feedback.
+	 product is deliverd much faster as compare to waterfall model.
+
+what is devops 
+     Devops adressed the gap between devloper and opertions
+	  devlopment team submmit the applicationsto opertionsteam for implementation
+	  opertion team will mointer the applications and prvide relavent feedback to devlopers
